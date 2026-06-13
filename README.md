@@ -1,10 +1,6 @@
 # ⚡ Smart Home Energy Monitoring System
 
 <p align="center">
-  <img src="images/banner.png" alt="Smart Home Energy Monitoring System" width="100%">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
